@@ -1,4 +1,5 @@
 #Sending whin from any system is extremely simple.
+
 whin uses a backend that is triggered on the endpoint https://whin.inutil.info/whin
 All you need to do is to POST the text you want to send, together with your credentials in the right format.
 
