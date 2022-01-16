@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json"     -d '{"phone": "your_phone_goes_here", "token": "your_token_goes_here", "text": "Hello from WHIN"}'     https://whin.inutil.info/whin
