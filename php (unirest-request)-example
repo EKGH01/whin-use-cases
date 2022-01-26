@@ -1,0 +1,8 @@
+$response = Unirest\Request::post("https://whin.inutil.info/whin",
+  array(
+    "Content-Type" => "application/json"
+  ),
+  array
+  )
+  "{\"phone\":\"YOUR_NUMBER_GOES_HERE\",\"token\":\"YOUR_TOKEN_GOES_HERE\",\"text\":\"HELLO FROM WHIN!!!!!\"}"
+);
