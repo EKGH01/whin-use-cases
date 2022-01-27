@@ -1,5 +1,5 @@
 # What is WHIN
-Whin is a free implemebtation of a Whatsapp notification service. 
+Whin is a free implementation of a Whatsapp notification service. 
 It is free of charge and comes without any commitment from our end but the 'we'll do our best to keep it running' will.
 Use it and share it as you deem appropriate; just bear in mind this is not professionally mantained and runs in home labs.
 Do not use this service for confidential information. We've tried to do things right but you never know, do you?
